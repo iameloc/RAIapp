@@ -4,7 +4,7 @@ Run `bun fmt` to format the code.
 
 This project was created using `bun init` in bun v1.4.5. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
 
-# RAIapp — Guia de instalação e execução
+# Guia de instalação e execução
 
 Este documento apresenta as instruções necessárias para configurar o ambiente de desenvolvimento, instalar as dependências e executar localmente o **RAIapp**.
 
