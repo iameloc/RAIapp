@@ -78,7 +78,7 @@ export default function MemberHeader({
         <nav className="absolute top-full right-4 z-10 mt-1 w-44 overflow-hidden rounded-xl bg-white text-sm text-navy shadow-lg">
 
           <Link
-            href="/dashboard"
+           href={`/perfil?nome=${encodeURIComponent(nome)}&time=${encodeURIComponent(time)}&eixo=${encodeURIComponent(eixo)}`}
             className="block px-4 py-2.5 hover:bg-surface"
             onClick={() => setOpen(false)}
           >
