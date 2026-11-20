@@ -1,22 +1,4 @@
-# raiapp
-
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-To type check:
-
-```bash
-bun check
-```
+# RAIapp - Mobile
 
 Run `bun fmt` to format the code.
 
