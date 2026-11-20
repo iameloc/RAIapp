@@ -425,6 +425,8 @@ Para explorar todas as funcionalidades do protótipo, recomendamos realizar seu 
 
 Aviso: Esta versão do RAIapp é um protótipo demonstrativo e ainda não possui banco de dados integrado. Portanto, as informações inseridas e as alterações realizadas não são armazenadas permanentemente e podem ser perdidas ao atualizar ou encerrar a sessão.
 
+---
+
 <p align="center">
   <strong>RAIapp</strong><br/>
   Sistema de gestão, acompanhamento e avaliação de membros.
