@@ -419,13 +419,14 @@ bun run dev
 
 ---
 
+# Aviso(Funcionalidades)
+
+Para explorar todas as funcionalidades do protótipo, recomendamos realizar seu cadastro e acessar a plataforma como membro. Algumas áreas e recursos podem ter visualizações ou interações limitadas sem identificação.
+
+Aviso: Esta versão do RAIapp é um protótipo demonstrativo e ainda não possui banco de dados integrado. Portanto, as informações inseridas e as alterações realizadas não são armazenadas permanentemente e podem ser perdidas ao atualizar ou encerrar a sessão.
+
 <p align="center">
   <strong>RAIapp</strong><br/>
   Sistema de gestão, acompanhamento e avaliação de membros.
 </p>
 
-# Funcionalidades
-
-Para explorar todas as funcionalidades do protótipo, recomendamos realizar seu cadastro e acessar a plataforma como membro. Algumas áreas e recursos podem ter visualizações ou interações limitadas sem identificação.
-
-Aviso: Esta versão do RAIapp é um protótipo demonstrativo e ainda não possui banco de dados integrado. Portanto, as informações inseridas e as alterações realizadas não são armazenadas permanentemente e podem ser perdidas ao atualizar ou encerrar a sessão.
